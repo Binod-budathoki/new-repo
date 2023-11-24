@@ -1,0 +1,15 @@
+Git More Commands
+- staging files
+- removing files
+- ignoring files
+- viewing history 
+	( with git --oneline) git 
+
+Pandas
+- indexing, selecting and assigning
+- Isnull, Assigning datas to new column
+- Excel_to_csv (through Template)
+	- IO
+	- FD
+	- Lock-in
+- Data Validation (Sector and Stocks watch throughly)

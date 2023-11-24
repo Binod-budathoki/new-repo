@@ -1,0 +1,11 @@
+Python OOP (Begin)
+
+Pandas
+- Indices (Multiple Selections)
+- Pandas Functions and Maps
+
+Practice Once: 
+- Excel_to_csv 
+	- IO
+	- FD
+	- Lock-in
